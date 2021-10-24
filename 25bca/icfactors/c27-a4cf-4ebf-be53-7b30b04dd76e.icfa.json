@@ -6,10 +6,23 @@
         "value": 1.0
     },
     "CDD": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.002442434913509134,
+        "fit": "Average",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-6463",
+                "uuid": "2729f988-8114-4be4-9954-2320454b5c9a"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-6464",
+                "uuid": "d94cbc55-02ae-45d9-a3b7-9e2e4fa711da"
+            }
+        ],
+        "reviewed": true,
+        "standard_ratio": 295.5,
+        "value": 0.9363764698365189
     },
     "H1": {
         "error": 0.0,
